@@ -26,7 +26,7 @@ include 'koneksi.php'; ?>
         <p>
            Dengan semangat digitalisasi dan pelestarian budaya, Warung Minang Digital 
            menjadi jembatan antara tradisi dan teknologi. Mari dukung produk lokal dan rasakan 
-           kelezatan warisan kuliner Minangkabau yang kaya rasa dan penuh makna.
+           kelezatan warisan kuliner Minangkabau yang kaya rasa dan penuh makna...
         </p>
         <a href="katalog.php" class="btn btn-primary">Lihat Katalog</a>
     </div>
